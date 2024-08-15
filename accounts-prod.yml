@@ -2,7 +2,7 @@ build:
   version: "Prod1.0"
 
 accounts:
-  message: "Welcome to AmanBank Account Production Version"
+  message: "Welcome to AmanBank Account prod Version"
   contact:
     name: "Aman Tyagi"
     email: "{cipher}3b31e1aed633c7dc0fe491a433ea3b39944c66d811332f9e2503feb0e7918751482a65829e41479a1b807b904c643fc3"
